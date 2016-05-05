@@ -12,6 +12,8 @@
 		8BFB1A401C35028B00D6DA9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BFB1A3E1C35028B00D6DA9F /* Main.storyboard */; };
 		8BFB1A421C35028B00D6DA9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BFB1A411C35028B00D6DA9F /* Assets.xcassets */; };
 		8BFB1A451C35028B00D6DA9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BFB1A431C35028B00D6DA9F /* LaunchScreen.storyboard */; };
+		8BFB1A4D1C35040100D6DA9F /* pika1.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BFB1A4C1C35040100D6DA9F /* pika1.png */; };
+		8BFB1A4F1C35043800D6DA9F /* pika2.png in Resources */ = {isa = PBXBuildFile; fileRef = 8BFB1A4E1C35043800D6DA9F /* pika2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8BFB1A411C35028B00D6DA9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BFB1A441C35028B00D6DA9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BFB1A461C35028B00D6DA9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BFB1A4C1C35040100D6DA9F /* pika1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pika1.png; sourceTree = "<group>"; };
+		8BFB1A4E1C35043800D6DA9F /* pika2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pika2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				8BFB1A3A1C35028B00D6DA9F /* AppDelegate.swift */,
 				8BFB1A3C1C35028B00D6DA9F /* ViewController.swift */,
 				8BFB1A3E1C35028B00D6DA9F /* Main.storyboard */,
+				8BFB1A4E1C35043800D6DA9F /* pika2.png */,
+				8BFB1A4C1C35040100D6DA9F /* pika1.png */,
 				8BFB1A411C35028B00D6DA9F /* Assets.xcassets */,
 				8BFB1A431C35028B00D6DA9F /* LaunchScreen.storyboard */,
 				8BFB1A461C35028B00D6DA9F /* Info.plist */,
@@ -125,7 +131,9 @@
 			files = (
 				8BFB1A451C35028B00D6DA9F /* LaunchScreen.storyboard in Resources */,
 				8BFB1A421C35028B00D6DA9F /* Assets.xcassets in Resources */,
+				8BFB1A4D1C35040100D6DA9F /* pika1.png in Resources */,
 				8BFB1A401C35028B00D6DA9F /* Main.storyboard in Resources */,
+				8BFB1A4F1C35043800D6DA9F /* pika2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
